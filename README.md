@@ -5,6 +5,6 @@ This repository gathers the 3 Data science homework I had to do in my first 6 mo
 
 The first work is about reprogramming the Principal Components Analysis, Multiple Correspondance Analysis, Kmeans and Hierarchical Ascending Classification.
 
-The second work is a basic logistic regression on the iris Data Set
+The second work is a basic logistic regression on the iris Data Set.
 
 The third work is a try of neural network development.
